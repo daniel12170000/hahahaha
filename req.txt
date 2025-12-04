@@ -1,5 +1,2 @@
 discord.py
 python-dotenv
-python -m venv myenv #創虛擬環境
-myenv\Scripts\activate #啟用它 (windows)
-source myenv/bin/activate #啟用它 (mac/linux)
